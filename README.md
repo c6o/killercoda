@@ -1,2 +1,2 @@
 # killercoda
-This repository holds tutorials designed and hosted on Killercoda's interactive education platform
+This repository holds Codezero tutorials using Killercoda's interactive education platform
