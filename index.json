@@ -1,7 +1,7 @@
 {
   "title": "Codezero - Getting Started",
   "description": "Overivew of setting up a Codezero Teamspace (~10 mins)",
- "details": {
+  "details": {
     "intro": {
       "text": "intro.md"
     },
