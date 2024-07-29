@@ -9,19 +9,22 @@
       {
         "title": "Create a new k8s cluster",
         "text": "step1/text.md",
-       
+
       },
       {
         "title": "Create a Codezero account & Organization on the Codezero Hub",
         "text": "step2/text.md",
+
       },
       {
         "title": "Register a unique Teamspace name",
         "text": "step3/text.md",
+
       },
       {
         "title": "Install the Codezero System on the Kubernetes cluster (To certify it as a Teamspace)",
         "text": "step4/text.md",
+
       },
       {
         "title": "Invite your Teammates",
