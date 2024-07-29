@@ -9,38 +9,24 @@
       {
         "title": "Create a new k8s cluster",
         "text": "step1/text.md",
-        {::comment}
-        "verify": "step1/verify.sh"
-        {:/comment}
-        
+       
       },
       {
         "title": "Create a Codezero account & Organization on the Codezero Hub",
         "text": "step2/text.md",
-        {::comment}
-        "verify": "step2/verify.sh"
-        {:/comment}
       },
       {
         "title": "Register a unique Teamspace name",
         "text": "step3/text.md",
-        {::comment}
-        "verify": "step3/verify.sh"
-        {:/comment}
       },
       {
         "title": "Install the Codezero System on the Kubernetes cluster (To certify it as a Teamspace)",
         "text": "step4/text.md",
-        {::comment}
-        "verify": "step4/verify.sh"
-        {:/comment}
       },
       {
         "title": "Invite your Teammates",
-        {::comment}
         "text": "step5/text.md",
-        "verify": "step5/verify.sh"
-        {:/comment}
+
       }
     ],
     "finish": {
